@@ -1,4 +1,3 @@
-This is link:https://alihaasan-scientist.github.io/WEB-Developement/
 # Navigation Bar
 This is simple navigation bar .Not Responsive
 This is my initial phase practice....
